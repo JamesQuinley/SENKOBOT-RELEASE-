@@ -10,8 +10,8 @@ client.on('ready', () => {
    
 client.on('message', msg => {
   if (msg.content === 'bot_ready') {
-    msg.reply('Senko is awating your commands  https://cdn.discordapp.com/attachments/742423809759379561/742423905536311296/Screenshot_20200531-160327_Instagram_1.jpg');
-    msg.reply('Haha do you like the image??  I found it from a freind,this image may change as images change on the server https://tenor.com/view/think-emoji-thonk-meme-gif-11987851 '); 
+    msg.reply('Alastor is awating your commands');
+    msg.reply('HAHA, im your demon freind Alastor,sign and we can be *FREINDS* '); 
 }
 });
 client.on('message', msg => {
@@ -21,7 +21,7 @@ client.on('message', msg => {
 });
 client.on('message', msg => {
   if (msg.content === 'version') {
-    msg.reply('This is version 1.10 of the senko-san bot by James Quinley, hosted on ubuntu 18.04.5 LTS with node.js ESTIMATED UPTIME 7:30 AM - 5:00 PM PST (set startup 7:25 AM PST shutdown 5:00 PM PST (updates may cause small down time if big bugs occur (c) James Quinley / The nerd_xp https://tenor.com/view/think-emoji-thonk-meme-gif-11987851');
+    msg.reply('This is version 1.10 of the Alastor bot by James Quinley, hosted on ubuntu 18.04.5 LTS with node.js ESTIMATED UPTIME 7:30 AM - 5:00 PM PST (set startup 7:25 AM PST shutdown 5:00 PM PST (updates may cause small down time if big bugs occur (c) James Quinley / The nerd_xp https://tenor.com/view/think-emoji-thonk-meme-gif-11987851');
   }
 });
 client.on('message', msg => {
@@ -100,7 +100,7 @@ client.on('message', msg => {
 });
 client.on('message', msg => {
   if (msg.content === 'U cute') {
-    msg.reply('https://tenor.com/view/pedro-monkey-puppet-meme-awkward-gif-15268759 no public signs of affection in the server lol');
+    msg.reply('https://tenor.com/view/pedro-monkey-puppet-meme-awkward-gif-15268759 no public signs of affection in the server lol and thats not allowed in hell');
   }
 });
 client.on('message', msg => {
