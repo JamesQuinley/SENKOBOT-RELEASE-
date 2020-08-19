@@ -8,6 +8,7 @@ client.on('ready', () => {
   console.log(`Authed as ${client.user.tag}!`);
 });
 //END OF GITHUB PUBLIC RELEASE(S) AND WE ARE MOVING TO HIDDEN RELEASES (AKA A New repositorie on github) Thanks to our supporters :) 
+//END OF SUPPORT FOR THIS BETA IS ON 12-30-20 AFTER THAT THE BETA WILL BE WAY OUT OF DATE!!!
 client.on('message', msg => {
   if (msg.content === 'bot_ready') {
     msg.reply('END OF GITHUB PUBLIC RELEASE');
