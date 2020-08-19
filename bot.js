@@ -7,11 +7,11 @@ const auth = require('./auth.json');
 client.on('ready', () => {
   console.log(`Authed as ${client.user.tag}!`);
 });
-   
+//END OF GITHUB PUBLIC RELEASE(S) AND WE ARE MOVING TO HIDDEN RELEASES (AKA A New repositorie on github) Thanks to our supporters :) 
 client.on('message', msg => {
   if (msg.content === 'bot_ready') {
-    msg.reply('Alastor is awating your commands');
-    msg.reply('HAHA, im your demon freind Alastor,sign and we can be *FREINDS* '); 
+    msg.reply('END OF GITHUB PUBLIC RELEASE');
+    msg.reply('this is the final github public release of Alastor bot, v3 will be hosted in privite for security :) '); 
 }
 });
 client.on('message', msg => {
