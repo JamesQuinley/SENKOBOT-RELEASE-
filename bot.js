@@ -147,11 +147,5 @@ client.login(auth.token);
 client.once('ready', () => {
        console.log('BOT NOW IS STARTED, ENJOY! HOST_OS:UBUNTU_18.04.5_LTS');
 });
-//new code is pushed via ssh from windows 10  
-//aka my laptop 
-//ready the senko-san lol prep the battle bots, and get your butt of the coutch and do some coding lol 
-//this is a bot based off of bot.js and discord-botkit
-//I will now build my own code
-//and make a cringe meme selector
-//senko-san
+//Please refrain from using this code in its full version, pure backup of our archive systems.
  
